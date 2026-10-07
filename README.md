@@ -1,23 +1,30 @@
 # Hey, I'm Tasmim 🎀
 
-💻 Beginner Frontend Developer  
-🌷 Learning HTML, CSS & JavaScript  
-☕ Coffee + Code + Curiosity  
-✨ Growing one project at a time
+💻 Software Engineering Student
+🐍 Learning Python & Programming Fundamentals
+🌐 Exploring Web Development
+☕ Coffee + Code + Curiosity
 
 ## 🌸 About Me
-I'm learning web development and trying to understand programming deeply.  
-Currently exploring frontend development and building small projects.
+
+I'm a Software Engineering student passionate about understanding how software works.
+
+Currently, I'm strengthening my programming fundamentals with Python while continuing to explore web development through practical projects.
 
 ## 🚀 Currently Working On
-- JavaScript
-- DOM & Events
-- Frontend Projects
-- Improving problem-solving skills
-- Exploring web development
+
+* Python
+* JavaScript
+* Programming fundamentals
+* Web development
+* Small projects
+* Problem-solving
 
 ## 🛠️ Tools
-HTML • CSS • JavaScript • VS Code • Git • GitHub
+
+Python • JavaScript • HTML • CSS • Git • GitHub • VS Code
 
 ## 📫 Reach Me
-Email: tasmimnahar112@gmail.com 
+
+Email: [tasmimnahar112@gmail.com](mailto:tasmimnahar112@gmail.com)
+
